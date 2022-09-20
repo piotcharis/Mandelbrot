@@ -40,4 +40,4 @@ Default Values:
 | name                  | mandelbrot.ppm |
 | implementation        | V0             |
 
-If you want to learn more about the project, you can read [this]() file in German.
+If you want to learn more about the project, you can read [this](./Ausarbeitung.pdf) file in German.
